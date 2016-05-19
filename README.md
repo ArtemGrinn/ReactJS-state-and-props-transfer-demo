@@ -1,4 +1,4 @@
-# ReactJS-state-and-props-transfer-demo
+# ReactJS - state and props transfer demo
 Simple demo: state and props transfering between two ReactJS classes.
 
 ## Задача: создать простой калькулятор
