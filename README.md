@@ -1,5 +1,5 @@
 # ReactJS - state and props transfer demo
-Simple demo: state and props transfering between two ReactJS classes.
+Simple demo: state and props transfering between two ReactJS components.
 
 ## Задача: создать простой калькулятор
 
